@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-first practice
+hi xie zhidong, you have done right!
